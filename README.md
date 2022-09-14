@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Nunez</h1>
 <h3 align="center">A passionate software engineer from USA, California</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbnunez&label=Profile%20views&color=44adee&style=plastic" alt="matthewbnunez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbnunez&label=Profile%20views&color=388eff&style=plastic" alt="matthewbnunez" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthewbnunez&show_icons=true&locale=en&layout=compact" alt="matthewbnunez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewbnunez&show_icons=true&title_color=000000&locale=en" alt="matthewbnunez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewbnunez&show_icons=true&title_color=388eff&locale=en" alt="matthewbnunez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthewbnunez&" alt="matthewbnunez" /></p>

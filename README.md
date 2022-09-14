@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewbnunez&label=Profile%20views&color=0e75b6&style=flat" alt="matthewbnunez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthewbnunez" alt="matthewbnunez" /></a> </p>
-
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **matthew.brandon.nunez@gmail.com**
